@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador Backend con experiencia en el diseño y desarrollo de backend. Mi stack tecnológico incluye Node.js, Python, C#,Go y bases de datos relacionales. He utilizado Docker para contenerizar aplicaciones y ahora estoy construyendo soluciones en la nube con AWS. Estoy explorando servicios como [especificar servicios AWS] para mejorar la escalabilidad, disponibilidad y eficiencia de mis aplicaciones.
+Desarrollador Backend con experiencia en el diseño y desarrollo de backend. Mi stack tecnológico incluye Node.js, Python, C#,Go y bases de datos relacionales. He utilizado Docker para contenerizar aplicaciones y ahora estoy construyendo soluciones en la nube con AWS. Estoy explorando servicios como ec2, lambda, rdspara mejorar la escalabilidad, disponibilidad y eficiencia de mis aplicaciones.
 
 
 ## 🌐 Socials:
