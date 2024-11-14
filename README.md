@@ -4,10 +4,14 @@ Desarrollador especializado en encontrar soluciones creativas a desafíos comple
 <h4>Mis Listas de Tecnología</h4>
     <ul>
         <li>
-            <span> Bases de datos </span>
-            <a href="https://www.youtube.com/watch?v=Etd01Zy-b3Q&list=PLQuY31rwzcq6bHlTulBE98Z136BfDe94j">Bases de Datos</a>
+            <span> Bases de datos:</span>
+            <a href="https://www.youtube.com/watch?v=Etd01Zy-b3Q&list=PLQuY31rwzcq6bHlTulBE98Z136BfDe94j"></a>
         </li>
-        </ul>
+         <li>
+            <span> Aws:</span>
+            <a href="https://www.youtube.com/watch?v=Etd01Zy-b3Q&list=PLQuY31rwzcq6bHlTulBE98Z136BfDe94j"></a>
+        </li>
+    </ul>
 
 
 ## 🌐 Socials:
