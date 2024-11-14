@@ -4,7 +4,7 @@ Desarrollador especializado en encontrar soluciones creativas a desafíos comple
 <h4>Mis Listas de Tecnología</h4>
     <ul>
         <li>
-            <img src="https://images.unsplash.com/photo-1518791865631-12d6a9457952?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0fGVu&auto=format&fit=crop&w=800&q=80" alt="Logo de Bases de Datos">
+            <span> Bases de datos </span>
             <a href="https://www.youtube.com/watch?v=Etd01Zy-b3Q&list=PLQuY31rwzcq6bHlTulBE98Z136BfDe94j">Bases de Datos</a>
         </li>
         </ul>
