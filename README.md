@@ -1,5 +1,14 @@
 # 💫 About Me:
-Desarrollador especializado en encontrar soluciones creativas a desafíos complejos. Amplios conocimientos en tecnologías backend, incluyendo Node.js y Python. Experiencia en la implementación de pipelines de CI/CD utilizando Jenkins y Docker. Constantemente actualizando mis conocimientos para adaptarme a las últimas tendencias tecnológicas.<br><br>
+Desarrollador especializado en encontrar soluciones creativas a desafíos complejos. Amplios conocimientos en tecnologías backend, incluyendo Node.js y Python. Experiencia en la implementación de pipelines de CI/CD utilizando Jenkins y Docker. Constantemente actualizando mis conocimientos para adaptarme a las últimas tendencias tecnológicas.
+Listas de tecnologia:
+Bases de datos : https://www.youtube.com/watch?v=Etd01Zy-b3Q&list=PLQuY31rwzcq6bHlTulBE98Z136BfDe94j
+Aws : https://www.youtube.com/watch?v=65cVmDKZyao&list=PLQuY31rwzcq6n3v2HPwVM5pt1c9aTICoO
+Api basica en Node: https://www.youtube.com/watch?v=F2aX1wNDNxc&list=PLQuY31rwzcq7kYCEs6SAh8oszJN4QxV9_
+.net : https://www.youtube.com/watch?v=pNqrjCjU3Fw&list=PLQuY31rwzcq6TF7J5EJ7zcCVK4WAuvOXn
+Python : https://www.youtube.com/watch?v=3j-Mx397QEU&list=PLQuY31rwzcq7OubsKNBI8UHVyUH52QC9C
+Go  : https://www.youtube.com/watch?v=DbPbgU925OQ&list=PLQuY31rwzcq4eWw2vPy_e0rTnDtYxOpLT
+Php : https://www.youtube.com/watch?v=GX_qu0gMHHc&list=PLQuY31rwzcq48XU62ZNfK8Ug1bRvkBi-l
+<br><br>
 
 
 ## 🌐 Socials:
