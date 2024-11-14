@@ -4,25 +4,25 @@ Desarrollador especializado en encontrar soluciones creativas a desafíos comple
 <h4>Mis Listas de Tecnología</h4>
     <ul>
         <li style="list-style: none; margin-bottom: 10px;">
-            <a href="https://www.youtube.com/watch?v=Etd01Zy-b3Q&list=PLQuY31rwzcq6bHlTulBE98Z136BfDe94j" style="text-decoration: none; color: #333; font-weight: bold;">Bases de datos</a>
+            <a target="_blank" href="https://www.youtube.com/watch?v=Etd01Zy-b3Q&list=PLQuY31rwzcq6bHlTulBE98Z136BfDe94j" style="text-decoration: none; color: #333; font-weight: bold;">Bases de datos</a>
         </li>
         <li style="list-style: none; margin-bottom: 10px;">
-            <a href="https://www.youtube.com/watch?v=65cVmDKZyao&list=PLQuY31rwzcq6n3v2HPwVM5pt1c9aTICoO" style="text-decoration: none; color: #333; font-weight: bold;">AWS</a>
+            <a target="_blank" href="https://www.youtube.com/watch?v=65cVmDKZyao&list=PLQuY31rwzcq6n3v2HPwVM5pt1c9aTICoO" style="text-decoration: none; color: #333; font-weight: bold;">AWS</a>
         </li>
         <li style="list-style: none; margin-bottom: 10px;">
-            <a href="https://www.youtube.com/watch?v=F2aX1wNDNxc&list=PLQuY31rwzcq7kYCEs6SAh8oszJN4QxV9_ style="text-decoration: none; color: #333; font-weight: bold;">API básica en Node</a>
+            <a target="_blank" href="https://www.youtube.com/watch?v=F2aX1wNDNxc&list=PLQuY31rwzcq7kYCEs6SAh8oszJN4QxV9_ style="text-decoration: none; color: #333; font-weight: bold;">API básica en Node</a>
         </li>
         <li style="list-style: none; margin-bottom: 10px;">
-            <a href="https://www.youtube.com/watch?v=pNqrjCjU3Fw&list=PLQuY31rwzcq6TF7J5EJ7zcCVK4WAuvOXn" style="text-decoration: none; color: #333; font-weight: bold;">.NET</a>
+            <a target="_blank" href="https://www.youtube.com/watch?v=pNqrjCjU3Fw&list=PLQuY31rwzcq6TF7J5EJ7zcCVK4WAuvOXn" style="text-decoration: none; color: #333; font-weight: bold;">.NET</a>
         </li>
         <li style="list-style: none; margin-bottom: 10px;">
-            <a href="https://www.youtube.com/watch/v=3j-Mx397QEU&list=PLQuY31rwzcq7OubsKNBI8UHVyUH52QC9C" style="text-decoration: none; color: #333; font-weight: bold;">Python</a>
+            <a target="_blank" href="https://www.youtube.com/watch/v=3j-Mx397QEU&list=PLQuY31rwzcq7OubsKNBI8UHVyUH52QC9C" style="text-decoration: none; color: #333; font-weight: bold;">Python</a>
         </li>
         <li style="list-style: none; margin-bottom: 10px;">
-            <a href="https://www.youtube.com/watch?v=DbPbgU925OQ&list=PLQuY31rwzcq4eWw2vPy_e0rTnDtYxOpLT" style="text-decoration: none; color: #333; font-weight: bold;">Go</a>
+            <a target="_blank" href="https://www.youtube.com/watch?v=DbPbgU925OQ&list=PLQuY31rwzcq4eWw2vPy_e0rTnDtYxOpLT" style="text-decoration: none; color: #333; font-weight: bold;">Go</a>
         </li>
         <li style="list-style: none; margin-bottom: 10px;">
-            <a href="https://www.youtube.com/watch?v=GX_qu0gMHHc&list=PLQuY31rwzcq48XU62ZNfK8Ug1bRvkBi-l" style="text-decoration: none; color: #333; font-weight: bold;">Php</a>
+            <a target="_blank" href="https://www.youtube.com/watch?v=GX_qu0gMHHc&list=PLQuY31rwzcq48XU62ZNfK8Ug1bRvkBi-l" style="text-decoration: none; color: #333; font-weight: bold;">Php</a>
         </li>
     </ul>
     </ul>
